@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "4PniqtN1nQqU7rfqgS2pjgnSwspSGhh3bMtvpwsWW58y",
+  "symbol": "MEME",
+  "name": "MemeFi",
+  "decimals": 9,
+  "logoURI": "https://tonlien.com/logo.png",
+  "tags": ["community", "meme"]
+}
